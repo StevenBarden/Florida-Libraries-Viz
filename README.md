@@ -23,4 +23,4 @@ Geographic visualization analyzing library distribution and operating hours acro
 - Gestalt principles applied through clustering and color grouping
 
 ## Visualization Link
-<a href="https://public.tableau.com/app/profile/steven.barden/viz/LIS-4414-Mod02-Central-South-Florida-Libraries-2025-02-01-1313-18/Sheet1?publish=yes" target="_blank">View the Tableau Public Visualization</a>
+<a target="_blank" href="https://public.tableau.com/app/profile/steven.barden/viz/LIS-4414-Mod02-Central-South-Florida-Libraries-2025-02-01-1313-18/Sheet1?publish=yes">View the Tableau Public Visualization</a>
